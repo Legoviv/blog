@@ -1,47 +1,51 @@
-#contact iframe
-{
-    width: 100%;
-}
-.contact_1 h3
-{
-    display: inline;
-}
-.contact_1 a
-{
-    text-shadow: none;
-}
- 
+
 input
 {
     background: grey
 }
 
-
-.nutrition_li
+.book_mainDiv
 {
-  margin-top: 13px;
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
 }
 
-.nutrition_li h4
+.book_mainDiv img
 {
-    border-bottom: 1px solid white;
-    padding: 8px;
+  width: 100%;
 }
 
-.nutrition_li img
+.book_mainDiv hr
 {
-  border-radius: 25px;
+    width: 230px; 
 }
 
-.nutrition_li p
+.book_mainDiv h5 , .book_mainDiv p
 {
-  margin-top:10px;
+margin-left: 20px;
 }
 
-.header_entrepreneur
+
+.book_head
 {
-  line-height: 2;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
 }
 
+.book_head i
+{
+float: right;
+}
+
+.book_text span
+{
+color: #ff7700;
+}
 
 
